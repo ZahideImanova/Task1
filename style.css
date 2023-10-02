@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.tap1{
+    text-align: center;
+}
+#id1{
+    color: rgb(24, 130, 40);
+}
+table, th, td {
+    border-collapse: collapse;
+    border-style:groove;
+    margin: auto;
+    width:34%;
+    height: 40px;
+}
